@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <hidden-api-whitelisted-app package="com.android.contacts"/>
+    <hidden-api-whitelisted-app package="com.nttdocomo.android.applicationmanager"/>
+    <hidden-api-whitelisted-app package="com.nttdocomo.android.devicehelp"/>
+    <hidden-api-whitelisted-app package="com.nttdocomo.android.sdcardbackup"/>
+    <hidden-api-whitelisted-app package="com.nttdocomo.android.wipe"/>
+    <hidden-api-whitelisted-app package="com.sonymobile.gameenhancer.browser"/>
+</config>
