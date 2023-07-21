@@ -1,0 +1,14 @@
+# sssi-user 13 67.0.B.4.23 1 release-keys
+- manufacturer: sony
+- platform: kalama
+- codename: pdx234_docomo
+- flavor: sssi-user
+- release: 13
+- id: 67.0.B.4.23
+- incremental: 1
+- tags: release-keys
+- fingerprint: docomo/pdx234_docomo/pdx234_docomo:13/TKQ1.221114.001/1:user/release-keys
+- is_ab: true
+- brand: docomo
+- branch: sssi-user-13-67.0.B.4.23-1-release-keys
+- repo: docomo_pdx234_docomo_dump
