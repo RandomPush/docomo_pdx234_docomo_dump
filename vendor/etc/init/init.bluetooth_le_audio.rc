@@ -1,0 +1,3 @@
+on boot
+    # Set property to disable broadcast for T-OSV
+    setprop persist.vendor.service.bt.adv_audio_mask 1
